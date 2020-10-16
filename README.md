@@ -1,7 +1,7 @@
-Starter app for REST Api built with Express / mongoose
+## Starter app for REST Api built with Express / mongoose
 
 
-Node js app
+## Node js app
 
 - mkdir nodeapp
 - npm init -y // initialize the app
@@ -10,7 +10,7 @@ Node js app
 - dynamic route / ordering example
 
 
-MongoDb
+## MongoDb
 
 - Setup follow https://docs.mongodb.com/manual/administration/install-community/
 - for macOSX https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
@@ -31,11 +31,6 @@ MongoDb
 - npm i -s cors // handles CORS
 
 
-References
+## References
 - https://zellwk.com/blog/crud-express-mongodb/
 
-
-
-## Reading/storiong images 
-
-- https://stackoverflow.com/questions/44869479/what-data-type-should-i-use-to-store-an-image-with-mongodb 
