@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: express-rest-starter
+  annotations:
+    github.com/project-slug: build-web-apps/express-rest-starter
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/invinciblejai
